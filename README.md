@@ -52,7 +52,7 @@ This project was bootstrapped with Vite. To run it on your local machine:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/VCS_Dev/hackersim.git
+    git clone https://github.com/VertexCodeStudio/hackersim.git
     ```
 2.  Navigate to the project directory:
     ```bash
