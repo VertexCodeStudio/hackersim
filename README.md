@@ -1,10 +1,4 @@
-Of course. I have all the files now. This is a very impressive and well-thought-out project. The game logic is stateful, there's a clear mission structure, and you've included a lot of fun details and easter eggs.
-
-Based on all the files you've provided, here is a professional, client-focused README for your **HackerSim** project.
-
------
-
-# HackerSim: A Retro Hacking Terminal Game
+ HackerSim: A Retro Hacking Terminal Game
 
  **Live Demo:** [**https://your-hackersim-url.netlify.app**](https://hackersim1.netlify.app/) \#\# Overview 🕹️
 
